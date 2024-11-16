@@ -23,13 +23,17 @@ function OffersBanner() {
                 
 <<<<<<< HEAD
 <<<<<<< HEAD
-                <h4 className='fw-bolder'>What's on your mind  tommorow and every day?</h4>
+<<<<<<< HEAD
+                <h4 className='fw-bolder'>What's on your mind today, tomorrow, and every day??</h4>
 =======
                
 >>>>>>> 0759b68291af99dca7fef9f3a7e4d538cd360d59
 =======
                 <h4 className='fw-bolder'>What's on your mind Today  and tommorow?</h4>
 >>>>>>> 8248cc83f6d6661723a630f84b34e2421f73ee6d
+=======
+                <h4 className='fw-bolder'>What's on your mind  tommorow?</h4>
+>>>>>>> 25b82c498173b5c216687e2865c995e118e32a76
                 <div className='d-flex align-items-center' style={{overflowY:"scroll",gap:"19px"}}>
                     <img className='img-fluid' width={'140px'} src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/rng/md/carousel/production/e20c602ba8ed5d8ec2204e7a7b19d9f6" alt="Pothichoru" />
 
