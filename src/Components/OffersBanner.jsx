@@ -22,7 +22,7 @@ function OffersBanner() {
             <div className='w-75 mt-5'>
                 
 <<<<<<< HEAD
-                <h4 className='fw-bolder'>What's on your mind Today and tommorow and every day?</h4>
+                <h4 className='fw-bolder'>What's on your mind  tommorow and every day?</h4>
 =======
                
 >>>>>>> 0759b68291af99dca7fef9f3a7e4d538cd360d59
